@@ -1,0 +1,10 @@
+com\infy\reducer\validation\ValidateConverter.class
+com\infy\reducer\validation\ValidateCompressor.class
+com\infy\reducer\dataconverter\DataConverterImpl.class
+com\infy\reducer\ReducerApplication.class
+com\infy\reducer\datacompressor\DataCompressor.class
+com\infy\reducer\file\CompressedFile.class
+com\infy\reducer\entity\Address.class
+com\infy\reducer\entity\Person.class
+com\infy\reducer\dataconverter\DataConverter.class
+com\infy\reducer\datacompressor\DataCompressorImpl.class
